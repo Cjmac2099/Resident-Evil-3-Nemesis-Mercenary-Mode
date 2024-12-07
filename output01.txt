@@ -1,0 +1,51 @@
+
+Enter mercenaries file: 
+
+Enter simulation file: 
+We have a new leader: Ethan Score: 1.0
+
+We have a new leader: Claire Score: 20.0
+
+We have a new leader: Leon Score: 44.3
+Rank 1
+Name: Leon Score: 44.3
+
+Rank 2
+Name: Claire Score: 42.8
+
+Rank 3
+Name: Krauser Score: 34.4
+
+Rank 4
+Name: Ethan Score: 30.5
+
+Rank 5
+Name: Luis Score: 24.4
+
+Rank 6
+Name: Wesker Score: 24.3
+
+Rank 7
+Name: Nicholai Score: 21.5
+
+Rank 8
+Name: Carlos Score: 19.0
+
+Rank 9
+Name: Dimitrescu Score: 17.3
+
+Rank 10
+Name: Ada Score: 14.6
+
+Rank 11
+Name: Heisenberg Score: 13.2
+
+Rank 12
+Name: Mikhail Score: 9.8
+
+Rank 13
+Name: Jill Score: 4.8
+
+Rank 14
+Name: Chris Score: 3.2
+
